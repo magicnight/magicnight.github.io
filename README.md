@@ -1,2 +1,0 @@
-magicnight.github.io
-====================
