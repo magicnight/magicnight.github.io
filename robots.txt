@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://magicnight.github.io/sitemap.xml 
