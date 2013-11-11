@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://magicnight.github.io/atom.xml" rel="self"/>
   <link href="http://magicnight.github.io/"/>
-  <updated>2013-11-11T13:42:21+00:00</updated>
+  <updated>2013-11-11T14:08:27+00:00</updated>
   <id>http://magicnight.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://magicnight.github.io/blog/2013/11/11/test/"/>
+    <updated>2013-11-11T14:08:00+00:00</updated>
+    <id>http://magicnight.github.io/blog/2013/11/11/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://magicnight.github.io/blog/2013/11/11/"/>
+    <updated>2013-11-11T14:01:00+00:00</updated>
+    <id>http://magicnight.github.io/blog/2013/11/</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[I'm new to ruby]]></title>
